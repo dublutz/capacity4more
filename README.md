@@ -9,10 +9,16 @@ knowledge.
 
 ## Installation
 
+Clone the project from [GitHub](https://github.com/capacity4dev/capacity4more).
+
+### Install dependencies
+
 **Warning:** you need to setup [Drush](https://github.com/drush-ops/drush)
 first or the installation and update scripts will not work.
 
-Clone the project from [GitHub](https://github.com/capacity4dev/capacity4more).
+**Grunt** is required. [Check installation details](http://gruntjs.com/getting-started)
+
+**Compass** is also required. [Check installation details](http://compass-style.org/install/)
 
 #### Create config file
 
